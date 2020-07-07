@@ -1,2 +1,2 @@
 # Clarusway
-Here i post the assignments in boot-camp
+Here I post the assignments given by boot-camp instructors.

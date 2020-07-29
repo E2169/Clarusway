@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 print('Answer the following questions only yes or no;')
 age = input('Are you a cigarette addict older than 75 years old?: ').lower()
 age_bool = age == 'yes'
